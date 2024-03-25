@@ -10,4 +10,6 @@ In the case of a floating-point coordinate value, the decimal separator is a per
 
 # My solution
 
-You can find... LINK
+To solve this problem I implemented the naive (brute-force) and the divide and conquer algorithms in Python.
+I also implemented this project in Java.
+If you want to read more about my solution you can find the details [here](https://github.com/Viktr0/ClosestPairProblem-Java).
